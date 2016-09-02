@@ -1,5 +1,5 @@
 # discordlist.me
-<h1><p>Discord Server List 
+<h1><p>Discord Server List</br>
 Advertise your server or find one to join!</p></h1>
 
 http://www.discordlist.me/
